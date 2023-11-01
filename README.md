@@ -1,7 +1,7 @@
 ### :frog: hi there, i'm Asya
 
 - 🎓 currently a student (yandex practicum data analytics).
-- 🌸 looking to collaborate: excited about the prospect of collaboration within the data analytics community
+- 🌸 looking to collaborate: excited about the prospect of working together within the data analytics community
 
 ---
 
